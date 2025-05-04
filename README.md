@@ -101,6 +101,8 @@ require_once 'ar-php/src/Arabic.php';
 
 Ensure the path matches the location of the Arabic.php file relative to your script.
 
+The `bz2` extension has to be enabled for the spell checking feature of Al-Mosahih to be setup properly. 
+
 [Top](#ar-php-project-ar-phporg)
 
 ## _Features_
